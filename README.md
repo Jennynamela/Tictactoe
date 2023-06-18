@@ -28,6 +28,14 @@ The Tictactoe class implements the ActionListener interface to handle button cli
 
 Feel free to modify the code to add new features or customize the game according to your requirements. Enjoy playing Tic-Tac-Toe!
 
+## Screenshots
+
+![Tic-Tac-Toe](## Screenshots
+
+![Tic-Tac-Toe](path/to/your/image.png)
+
+
+
 
 
 
