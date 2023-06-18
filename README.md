@@ -27,3 +27,7 @@ Run the compiled class file using the following command: java Tictactoe
 The Tictactoe class implements the ActionListener interface to handle button click events. It creates a graphical window using the Swing library and sets up the necessary components such as buttons, labels, and panels. The game logic is implemented in the actionPerformed method, which determines the current player's turn, updates the game board, and checks for a win or tie condition. The xWins and oWins methods highlight the winning combination of buttons and disable all the buttons once the game is over.
 
 Feel free to modify the code to add new features or customize the game according to your requirements. Enjoy playing Tic-Tac-Toe!
+
+
+
+
