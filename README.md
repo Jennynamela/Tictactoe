@@ -28,7 +28,11 @@ The Tictactoe class implements the ActionListener interface to handle button cli
 
 Feel free to modify the code to add new features or customize the game according to your requirements. Enjoy playing Tic-Tac-Toe!
 
-## Game overview
+# Technologie
+
+java
+
+# Game overview
 
 
 ![Tic-Tac-Toe](https://github.com/Jennynamela/Tictactoe/blob/main/img.png)
