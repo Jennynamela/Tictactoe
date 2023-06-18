@@ -31,7 +31,7 @@ Feel free to modify the code to add new features or customize the game according
 ## Game overview
 
 
-![Tic-Tac-Toe](https://github.com/Jennynamela/Tictactoe/blob/main/Screenshot%20(435).png)
+![Tic-Tac-Toe](https://github.com/Jennynamela/Tictactoe/blob/main/img.png)
 
 
 
