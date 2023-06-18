@@ -30,9 +30,8 @@ Feel free to modify the code to add new features or customize the game according
 
 ## Screenshots
 
-![Tic-Tac-Toe](## Screenshots
 
-![Tic-Tac-Toe](path/to/your/image.png)
+![Tic-Tac-Toe]()
 
 
 
